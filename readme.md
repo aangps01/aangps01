@@ -9,5 +9,6 @@
 <a href="https://github.com/aangps01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aangps01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aangps01&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aangps01&theme=algolia&layout=compact&range=last_7_days"/>
 </a>
 </p>
